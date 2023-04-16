@@ -1,0 +1,64 @@
+/* h1{
+  color:brown;
+  font-family: 'Courier New', Courier, monospace;  
+}
+
+img{
+  width: 250px;
+  
+} */
+
+body{
+  color:darkcyan;
+  font-family: 'Courier New', Courier, monospace;  
+  max-width: 650px;
+  margin:0 auto;
+  padding:0 16px;
+}
+
+img{
+  width: 250px;
+  
+} 
+
+footer{
+  background-color: antiquewhite;
+  border-top: 1px solid rebeccapurple;
+  margin:16 px;
+  padding:16px;
+  margin-bottom: 0 cm;
+}
+
+header{
+  margin: top 16px;
+  margin-bottom: 48px;
+}
+h1{
+  font-size: 64px;
+  margin-bottom: 16px;
+
+}
+
+header a{
+
+  color:brown;
+  text-decoration: none;
+  margin-right: 16px;
+
+}
+
+
+input{
+  border:1px solid brown;
+  padding: 8px;
+}
+
+
+
+button{
+  cursor: pointer;
+  border: 1px solid cyan;
+  background-color: bisque;
+  color: white;
+  padding: 8px;
+}
