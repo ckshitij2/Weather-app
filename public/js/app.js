@@ -1,4 +1,4 @@
-console.log("Client Side Java Scriupt")
+
 const weatherForm = document.querySelector('form')
 const search = weatherForm.querySelector('input')
 const messageOne = document.getElementById('message-1')
